@@ -19,4 +19,5 @@ require 'webroot' . DIRECTORY_SEPARATOR . 'index.php';
  * Git の勉強用に変更（コメント）を追加。
  * ※行追加
  * ※行追加
+ * ※行追加３
  */
